@@ -1,0 +1,26 @@
+﻿Bài 1: Bóc tách 6 thành phần cốt lõi trong công thức CREATE 
+5. Yêu cầu đầu ra
+- Phần 1 (Phân tích lỗi): Chỉ ra chính xác 5 thành phần trong Khung CREATE mà câu lệnh của Tuấn đã bỏ sót. Giải thích ngắn gọn tác hại của việc thiếu từng thành phần đó dựa trên Mục 2.1 Lesson 01. 
+      -     5 thành phần
+* Context
+* Explanation
+* Action
+* Tone
+* Extras
+
+
+* Giải thích ngắn gọn tác hại của việc thiếu từng thành phần đó dựa trên Mục 2.1 Lesson 01.
+* Context: không có cho AI đóng vai trò gì nên AI chỉ trả lời chung chung
+* Explanation: khiến AI tự do sáng tạo mà không có ngăn cấm gì từ người prompt
+* Action: không đưa ra các bước cụ thể khiến AI đưa ra nhiều thông tin khó để lọc ra những thông tin chính và cần thiết.
+* Tone: thiếu Tone thì giọng văn của AI sẽ chán, không được chuyên nghiệp nên sẽ không được áp dụng vào thực tế.
+* Extras: thiếu định dạng khiến AI chỉ đưa ra những dòng văn bản dài dòng, không có giới hạn độ dài sẽ làm cho người đọc nhìn vào rất khó theo dõi đó là phần gì.
+
+
+- Phần 2 (Sửa lỗi): Viết lại câu lệnh trên thành một Prompt hoàn chỉnh theo đúng cấu trúc 6 thành phần C - R - E - A - T - E để tạo bài đăng Facebook hấp dẫn cho TechShop.
+* Context: bạn hãy đóng vai là một thực tập sinh phòng Marketing tại TechShop và đang chuẩn bị một bài viết fanpage trên facebook để quảng bá dòng điện thoại mới.
+* Request: hãy đưa bài viết này có nội dung làm thu hút những người dùng, đặc biệt là những người thích sài hệ điều hành IOS.
+* Explanation: Bài viết không được chứa quảng cáo rác, chỉ quảng cáo về Iphone và nội dung chỉ giới thiệu về các tính năng, giao diện, màu sắc của Iphone mới.
+* Action: Bước 1 ( Giới thiệu tổng về chiếc Iphone mới) -> Bước 2 ( Đưa ra giá hiện tại) -> Bước 3 ( Tạo ra các chương trình khuyến mãi cho những người nhanh tay mua sớm nhất)
+* Tone: giọng văn chuyên nghiệp và thuyết phục cho người xem
+* Extras: hãy trình bày dưới dạng văn bản và độ dài khoảng 10-15 dòng. Có đầy đủ tiêu đề ở phần đầu và Lời cảm ơn đã đọc ở phần cuối.
